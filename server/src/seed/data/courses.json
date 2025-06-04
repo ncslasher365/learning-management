@@ -6,7 +6,7 @@
     "title": "Introduction to Programming",
     "description": "Learn the basics of programming with this comprehensive course.",
     "category": "Computer Science",
-    "image": "https://images.pexels.com/photos/5905888/pexels-photo-5905888.jpeg",
+    "image": "https://i.ytimg.com/vi/CK4iDyUu3Qk/maxresdefault.jpg",
     "price": 4999,
     "level": "Beginner",
     "status": "Published",
@@ -118,7 +118,7 @@
     "title": "Advanced Machine Learning",
     "description": "Dive deep into machine learning algorithms and techniques.",
     "category": "Artificial Intelligence",
-    "image": "https://images.pexels.com/photos/6303596/pexels-photo-6303596.jpeg",
+    "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748543757666/140c2e3b-a0f6-4ef1-b50f-0c6b6c86ecb1.jpeg",
     "price": 9999,
     "level": "Advanced",
     "status": "Published",
@@ -226,89 +226,13 @@
     ]
   },
   {
-    "courseId": "c5d6e7f8-g9h0-i1j2-k3l4-m5n6o7p8q9r0",
-    "teacherId": "user_7kFh92JkCpQw3N8M5L4xRzVtYs",
-    "teacherName": "John Doe",
-    "title": "Web Development Fundamentals",
-    "description": "Learn the basics of HTML, CSS, and JavaScript to build modern websites.",
-    "category": "Web Development",
-    "image": "https://images.pexels.com/photos/6001397/pexels-photo-6001397.jpeg",
-    "price": 7999,
-    "level": "Beginner",
-    "status": "Published",
-    "enrollments": [
-      { "userId": "user_6tHm89QwNpKj3Fx5Vy2RdLcBs" },
-      { "userId": "user_9xWp45MnKjL8vRt2Hs6BqDcEy" }
-    ],
-    "sections": [
-      {
-        "sectionId": "3e5f7g9h-1i3j-5k7l-9m1n-3o5p7q9r1s3t",
-        "sectionTitle": "HTML Basics",
-        "sectionDescription": "Learn the fundamentals of HTML.",
-        "chapters": [
-          {
-            "chapterId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
-            "type": "Video",
-            "title": "Introduction to HTML",
-            "content": "https://example.com/videos/intro-to-html.mp4",
-            "video": "https://example.com/videos/intro-to-html.mp4",
-            "comments": []
-          },
-          {
-            "chapterId": "f6g7h8i9-j0k1-l2m3-n4o5-p6q7r8s9t0u1",
-            "type": "Quiz",
-            "title": "HTML Tags Quiz",
-            "content": "1. What does HTML stand for?\n2. Name three basic HTML tags.\n3. What is the purpose of the <head> tag?",
-            "comments": []
-          },
-          {
-            "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
-            "type": "Text",
-            "title": "HTML Forms and Input Elements",
-            "content": "HTML forms are used to collect user input. Learn about various input types and form elements...",
-            "comments": []
-          }
-        ]
-      },
-      {
-        "sectionId": "4f6g8h0i-2j4k-6l8m-0n2p-4q6r8s0t2u4v",
-        "sectionTitle": "CSS Styling",
-        "sectionDescription": "Learn how to style your HTML with CSS.",
-        "chapters": [
-          {
-            "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
-            "type": "Video",
-            "title": "CSS Basics",
-            "content": "https://example.com/videos/css-basics.mp4",
-            "video": "https://example.com/videos/css-basics.mp4",
-            "comments": []
-          },
-          {
-            "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
-            "type": "Text",
-            "title": "CSS Layout Techniques",
-            "content": "Learn about different CSS layout techniques including Flexbox and Grid...",
-            "comments": []
-          },
-          {
-            "chapterId": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
-            "type": "Quiz",
-            "title": "CSS Styling Quiz",
-            "content": "1. What is the box model in CSS?\n2. Explain the difference between inline and block elements.\n3. How do you center an element horizontally and vertically using Flexbox?",
-            "comments": []
-          }
-        ]
-      }
-    ]
-  },
-  {
     "courseId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
     "teacherId": "user_3rTg67LmZnXc4Vb8Wd0JyUhEq",
     "teacherName": "Michael Brown",
     "title": "Data Science Fundamentals",
     "description": "Learn the basics of data science, including statistics, data visualization, and machine learning.",
     "category": "Data Science",
-    "image": "https://images.pexels.com/photos/4491461/pexels-photo-4491461.jpeg",
+    "image": "https://miro.medium.com/v2/resize:fit:1400/1*gmZ4AOC-BDU0hE9qUNQEkg.png",
     "price": 8999,
     "level": "Intermediate",
     "status": "Published",
@@ -348,7 +272,7 @@
     "title": "Mobile App Development with React Native",
     "description": "Build cross-platform mobile apps using React Native and JavaScript.",
     "category": "Mobile Development",
-    "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg",
+    "image": "https://ixorasolution.com/wp-content/uploads/Mobile-app-development-with-react-native.jpg",
     "price": 12999,
     "level": "Advanced",
     "status": "Published",
